@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Project_1</string>
+    <string name="homescreen_motivation_msg">Time to explore LingoStacks App  distinct activities \n \t\t\t\t\t\t\t\t\t\t\t\t Are you ready to get started ? </string>
+    <string name="get_started">Get Started</string>
+    <string name="no_account">"No account ? "</string>
+    <string name="singup">SignUp</string>
+    <string name="Login_Title">Log in with your email</string>
+    <string name="SignUp_Title">"CREATE YOUR ACCOUNT "</string>
+    <string name="Rate">You have the chance to give a rate</string>
+    <string name="game_motivation"> " Match Word and Definition Game\nTime to measure your knowledge !\n\t\t\t\t\t\t\t\t \t\t\t\t\t\tLets Get started ! "</string>
+</resources>
